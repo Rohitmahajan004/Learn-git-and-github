@@ -1,4 +1,5 @@
 # Learn-git-and-github
+Authon by - Rohit Mahajan
 1. create repository using github and edit redime file and commit the fist
 2. then install git and use it
 3. apply the config command
