@@ -5,3 +5,6 @@
 4. git config --global user.name "rohit mahajan"
 5. git config --globale usee.email "rohitmahajan123bca@gmail.com"
 6. git congit --list     # it is show the confit information
+cd ~  # it has to change directory into main directory
+clone - cloning a repository on  our local machine
+git clone <project link>
